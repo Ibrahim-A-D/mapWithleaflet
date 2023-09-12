@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bienvenue",
+        "delivery" : true,
+        "deliveryDistance" : 2000
+      },
+      "geometry": {
+        "coordinates": [
+          -11.673046967534987,
+          10.129866563093046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bien",
+        "delivery" : true,
+        "deliveryDistance" : 1000
+      },
+      "geometry": {
+        "coordinates": [
+          -11.825588803485289,
+          10.191323118948333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bi",
+        "delivery" : true,
+        "deliveryDistance" : 3000
+      },
+      "geometry": {
+        "coordinates": [
+          -11.497091733508398,
+          10.150120596420365
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
